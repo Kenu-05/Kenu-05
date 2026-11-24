@@ -33,3 +33,30 @@ I'm a Software Engineering undergraduate at the University of Kelaniya with 6 mo
 
 - GitHub: https://github.com/Kenu-05
 - Portfolio: https://remarkable-bonbon-3e19d5.netlify.app/
+
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,c,react,nodejs,express,spring,postgres,mysql,mongodb,redis,docker,git,github,tailwind" />
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kenu-05&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenu-05&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kenu-05&theme=tokyonight" />
+</p>
+
